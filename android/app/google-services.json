@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "288877347850",
+    "project_id": "mo-fit-d0762",
+    "storage_bucket": "mo-fit-d0762.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288877347850:android:0d7d0df6017f5f8305cbf3",
+        "android_client_info": {
+          "package_name": "com.mofit.mofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288877347850-ord4p0kkdtak72tha2kl330ul07576vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mofit.mofit",
+            "certificate_hash": "82bcde49ec600b35fee9df119530b6dd0a2fa887"
+          }
+        },
+        {
+          "client_id": "288877347850-cil0eanrih5u973ovk7f7d09ethptns0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAjBAp2DfswmiIbkOD9QrnXQ20k3W-yeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288877347850-cil0eanrih5u973ovk7f7d09ethptns0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288877347850-cqq5a1f17c7hm43n2pa65fk435p9bbij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mofitApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
